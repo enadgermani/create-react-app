@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
            <ReactFlagsSelect />          <p>
-            Edit <code>src/App.js</code> and save to reload.
+            Edit <code>src/App.js</code> ASDASDASDAo reload.
           </p>
           <a
             className="App-link"
